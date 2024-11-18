@@ -9,3 +9,4 @@ Durée 3 minutes. Vous présentez en groupe :
 - Par quels animateurs
 - Les objectifs : qu'est ce qu'on apprend dans le jeu + objectifs pédagogiques
 
+yo
