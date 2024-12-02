@@ -9,7 +9,7 @@ Les sessions sont courtes (10 minutes maximum), facilement organisables avec un 
 
 *Ce type d'initiative s'inscrit dans une démarche plus large de sensibilisation au handicap, visant à promouvoir l'inclusion sociale et professionnelle tout en encourageant des pratiques adaptées dans la vie quotidienne et au travail​*
 
-## Référence 2 : 
+## Référence 2 : https://www.crn-handicap.fr/ressources/les-amenagements-pour-les-personnes-aveugles-ou-malvoyantes#:~:text=De%20mani%C3%A8re%20g%C3%A9n%C3%A9rale%2C%20pour%20favoriser%20les%20d%C3%A9placements%20d%27une,d%27%C3%A9viter%20les%20rev%C3%AAtements%20r%C3%A9fl%C3%A9chissants%20et%20le%20mobilier%20transparent 
 Cet propose des recommandations essentielles pour aménager les espaces et interactions en faveur des personnes aveugles ou malvoyantes, dans une démarche inclusive :
 
 Principes pour favoriser l’accessibilité : purioriser des cheminements dégagés, sans obstacles au sol, et éviter les matériaux réfléchissants ou transparents.
