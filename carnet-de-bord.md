@@ -17,6 +17,7 @@ Serious Game choisi: Sensibilisation au Handicap : Non Voyants
 
 ### Réalisations :
 
+- Mise en place du github : Kanban, Roadmap(=Gantt)
 - Elaboration du Pitch de présentation
   
 - Répartition des tâches :
@@ -30,6 +31,7 @@ Serious Game choisi: Sensibilisation au Handicap : Non Voyants
 
 ### Réalisations :
 
+- Pitch de présentation
 - Brainstorming sur les activitées à inclure dans notre Jeu Serieux :
   - Exploration d'une pièce à l'aveugle pour ensuite dessiner son plan sur une feuille.
     - Statut : Refusé
@@ -40,4 +42,5 @@ Serious Game choisi: Sensibilisation au Handicap : Non Voyants
     - Statut : Refusé
 
 - Début de la préparation du Point d'étape :
+  - Mise au point sur les attentes du point d'étape (cf. [Issue TP 4/6](https://github.com/Gestion-de-projet-M1-A-R/Gestion-de-projet-Org/issues/10#issuecomment-2511907329))
   - Création de la documentation (.md)
