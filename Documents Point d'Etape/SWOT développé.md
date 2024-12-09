@@ -1,9 +1,10 @@
 ### FORCES
 
-- Sensibilisation immersive au handicap : Mise en situation réaliste qui favorise l'empathie et la compréhension.
+- Sensibilisation immersive au handicap : Mise en situation réaliste qui favorise l'empathie et la compréhension des handicaps de la vue. 
 - Apprentissage ludique : Jeu engageant qui combine défi et pédagogie.
-- Flexibilité du jeu : Adaptable à différents contextes, âges, et publics.
+- Flexibilité du jeu : Adaptable à différents contextes, âges, et publics, matériel.
 - Soutien des associations : Collaboration potentielle avec des associations spécialisées pour garantir la pertinence.
+- simplicité de concept: Permet d'avancer rapidement dans le développement du jeu et d'itérer souvent.
 ### FAIBLESSES
 
 - Risques liés à la sécurité : Gestion des accidents potentiels (équipements, supervision).
