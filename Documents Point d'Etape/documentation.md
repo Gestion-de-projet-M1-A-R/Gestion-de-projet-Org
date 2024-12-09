@@ -31,4 +31,7 @@ Fournir des supports pédagogiques ou informatifs en braille, audio ou en grands
 ## Réference 5 : https://www.accessibilite-dv.fr/accessibilite-erp-aveugles-malvoyants-circulations-horizontales-et-verticales/
 *Cet article traite des exigences d’accessibilité des circulations dans les établissements publics pour les personnes aveugles ou malvoyantes. Il aborde la largeur des cheminements, le contraste visuel, l’éclairage et la signalétique. Des solutions comme les bandes de guidage, la sécurisation des escaliers et les ascenseurs accessibles sont aussi mentionnées. Des applications de navigation intérieure sont proposées pour améliorer l’autonomie des personnes malvoyantes.*
 
-https://studentaffairs.vancouver.wsu.edu/access-center/etiquette-interacting-people-who-are-blind-who-have-low-vision
+
+
+## Réference 6 : https://studentaffairs.vancouver.wsu.edu/access-center/etiquette-interacting-people-who-are-blind-who-have-low-vision
+*Cet article explique comment interagir respectueusement avec les personnes aveugles ou malvoyantes. Il recommande de toujours demander si une assistance est nécessaire, de fournir des descriptions verbales claires, de respecter les limites personnelles, d'assurer un environnement sûr et ordonné, et de communiquer directement sans condescendance. L'accent est mis sur la patience, l'écoute et l'utilisation d'un langage respectueux pour favoriser des échanges inclusifs et dignes.*
