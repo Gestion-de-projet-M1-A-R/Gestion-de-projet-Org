@@ -12,7 +12,7 @@
 - Dépendance au nombre de participants : Difficulté à maintenir l’intérêt si le nombre est réduit.
 ### OPPORTUNITÉS
 
-- Collaboration avec des organismes spécialisés : Valorisation et diffusion du projet grâce à des associations ou des institutions.
+- Collaboration avec des organismes spécialisés : Valorisation et diffusion du projet grâce à des associations ou des institutions. Possibles interactions avec des professionnels du milieu pour valider et/ou étoffer notre jeu et nos documents.
 - Éducation et sensibilisation étendue : Usage dans les écoles, entreprises, ou formations pour sensibiliser des publics variés.
 - Développement de variantes du jeu : Inclusion d’autres formes de handicaps (auditif, moteur, mental) pour une approche globale.
 - Recherche de subventions : Intérêt potentiel pour les fonds publics ou privés liés à l’inclusion et la sensibilisation.
