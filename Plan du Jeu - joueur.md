@@ -2,8 +2,8 @@
 - Il y aura deux passes : Une en étant aveugle, une autre avec une malvoyances
 - L'objectif est de réaliser des mini actions, (et de valider la run avec un gros objectif + tard)
 
-- utilisation de la canne, les lunettes handicap, le matériel autres
-- L'animateur suit de près le joueur pour la sécurité
+Utilisation de la canne, les lunettes handicap, le matériel autres
+L'animateur suit de près le joueur pour la sécurité
 
 ### Passe 1 : Aveugle - avec la canne
 - Au début, le joueur est donnée un objet a placer dans une panière
