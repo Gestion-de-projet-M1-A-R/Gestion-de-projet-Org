@@ -7,7 +7,13 @@
 
 ## Les mini-jeux
 # Difficultés des jeux ?
-Ca va, peut etre trop simple ?
+Ca va, peut etre trop simple (retrouver les objets avec les mains)?
+[ISMANE]
+Difficulté avec la canne
+[ISMANE]
+(OUSMANE)
+Le changement de position de la corbeille : pas mal
+(OUSMANE)
 # Diversité des jeux ?
 (COUVENT)
 Differencier orange et pamplemousse : très similaire, sensible au toucher
@@ -23,6 +29,10 @@ Passage avec objets dans deux mains, en plus de la canne
 - Animateur dois rester proche pour guider les épaules, pas a l'objectif sinon joueur attiré par son de la voix.
 - ne pas trop guider sur la position des objets 
 (COUVENT)
+[ISMANE]
+Ne pas tout expliquer au début, a chaque étape expliquer le prochain objectif
+A la fin, montrer la salle en clair pour se rendre compte du chemin parcouru et revenir sur les mini jeux : pédagogie
+[ISMANE]
 
 ## La sensibilisation
 
