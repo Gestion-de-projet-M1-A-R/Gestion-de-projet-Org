@@ -9,7 +9,7 @@ L'animateur suit de près le joueur pour la sécurité
 - Au début, le joueur est donnée un objet a placer dans une panière
 - chemin jusqu'a la table avec un obstacle (sac, chaise mal rangé)
 - récuperer une bouteille d'eau, la déplacer a une deuxiemme table, puis trouver et *remplir un verre*
-- Toucher les 3 objets et les deviner
+- Toucher les 3 objets et les deviner : Trousse, Bouteille d'eau, Calculatrice
 - changement de lunette avec l'aide de l'animateur, face au mur sans voir la salle
 
 ### Passe 2 : Malvoyant - avec lunette floue et canne
