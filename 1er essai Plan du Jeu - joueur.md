@@ -6,16 +6,16 @@ Utilisation de la canne, les lunettes handicap, le matériel autres.
 L'animateur suit de près le joueur pour la sécurité
 
 ### Passe 1 : Aveugle - avec la canne
-- Au début, le joueur est donnée un objet a placer dans une panière
-- chemin jusqu'a la table avec un obstacle (sac, chaise mal rangé)
-- récuperer une bouteille d'eau, la déplacer a une deuxiemme table, puis trouver et *remplir un verre*
-- Toucher les 3 objets et les deviner : Trousse, Bouteille d'eau, Calculatrice
+- Au début, le joueur est donnée un objet a placer dans une panière sur une table au fond de la pièce
+- chemin jusqu'a la table avec un obstacle (sac, chaise mal rangé) ou chicane
+- poser l'objet, récuperer une bouteille d'eau, la déplacer a une deuxiemme table, puis trouver et *remplir un verre*
+- Toucher les 3 objets et les deviner : Trousse, Clefs, Calculatrice
 - changement de lunette avec l'aide de l'animateur, face au mur sans voir la salle
 
 ### Passe 2 : Malvoyant - avec lunette floue et canne
-- choisis un objet, qui est placé dans la panière par l'animateur, mais la panière est déplacé sans la connaissance du joueur
-- chemin jusqu'a la première table, obstacle (chaise mal rangée, sac)
-- Deviner les objets des images, placer l'objet en main devant la bonne image
+- choisis un objet, Deviner les objets des images, placer l'objet en main devant la bonne image (table pas loin)
+- chemin jusqu'a la premiere table
+- recuperer l'objet qui est dans la panière, mais la panière est déplacé sans la connaissance du joueur
 - resortir de la salle
 
 Bravo ! alors c'est dur hein ?
