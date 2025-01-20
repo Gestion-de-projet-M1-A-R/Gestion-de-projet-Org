@@ -8,7 +8,7 @@ L'animateur suit de près le joueur pour la sécurité
 ### Passe 1 : Aveugle - avec la canne
 - Au début, le joueur est donnée un objet a placer dans une panière sur une table au fond de la pièce
 - chemin jusqu'a la table avec un obstacle (sac, chaise mal rangé) ou chicane
-- poser l'objet, récuperer une bouteille d'eau, la déplacer a une deuxiemme table, puis trouver et *remplir un verre*
+- poser l'objet dans un carton, récuperer une bouteille d'eau, la déplacer a une deuxiemme table, puis trouver et *remplir un verre*
 - Toucher les 3 objets et les deviner : Trousse, Clefs, Calculatrice
 - changement de lunette avec l'aide de l'animateur, face au mur sans voir la salle
 
