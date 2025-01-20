@@ -4,6 +4,7 @@
 # Qu'avez vous pensez du concept ?
 # Des remarques ?
 - (Couvent) C'est immersif !
+- (Ousama) C'etait amusant !
 
 ## Les mini-jeux
 # Difficultés des jeux ?
@@ -32,6 +33,7 @@ Passage avec objets dans deux mains, en plus de la canne
 [ISMANE]
 Ne pas tout expliquer au début, a chaque étape expliquer le prochain objectif
 A la fin, montrer la salle en clair pour se rendre compte du chemin parcouru et revenir sur les mini jeux : pédagogie
+Demander si c'est ok de ne pas voir la salle et de s'y déplacer les yeux bandés ? (Peur, Angoisse, Clostrophobie ?)
 [ISMANE]
 
 ## La sensibilisation
