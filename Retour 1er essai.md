@@ -3,16 +3,16 @@
 ## Le concept
 # Qu'avez vous pensez du concept ?
 # Des remarques ?
-- (Couvent) C'est immersif !
+- (Adrien) C'est immersif !
 - (Ousama) C'etait amusant !
 
 ## Les mini-jeux
 # Difficultés des jeux ?
 - Ca va, peut etre trop simple (retrouver les objets avec les mains)?
 
-[ISMANE]
+[IMANE]
 - Difficulté avec la canne
-[ISMANE]
+[IMANE]
 
 (OUSMANE LOU)
 - Le changement de position de la corbeille : pas mal
@@ -41,11 +41,11 @@
 - ne pas trop guider sur la position des objets 
 (COUVENT)
 
-[ISMANE]
+[IMANE]
 - Ne pas tout expliquer au début, a chaque étape expliquer le prochain objectif
 - A la fin, montrer la salle en clair pour se rendre compte du chemin parcouru et revenir sur les mini jeux : pédagogie
 - Demander si c'est ok de ne pas voir la salle et de s'y déplacer les yeux bandés ? (Peur, Angoisse, Clostrophobie ?)
-[ISMANE]
+[IMANE]
 
 ## La sensibilisation
 
