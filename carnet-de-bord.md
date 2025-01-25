@@ -70,3 +70,14 @@ Pour la Prochaine séance:
 - Préparer les questions d'interview pour récupérer les témoignages pour le site.
 - faire un test du jeu avec un autre groupe
 - trouver un moyen de protection de coins de tables
+
+## Sixième TP
+
+- Echange avec Osmane Lo autour de la déficience visuelle
+- Essais du jeu dans la salle 127 :
+  - Objets trouvés : une trousse, une bouteille, des clés et une calculatrice.
+- Epreuves réalisées : Traverser la pièce pour déposer un objet, renmplir un verre d'eau et reconnaître des objets.
+- Testeurs
+  - RIAHI Oussama
+  - COUVENT Adrian
+  - PENDELIAU Iman
