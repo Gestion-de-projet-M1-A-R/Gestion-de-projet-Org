@@ -1,9 +1,11 @@
 # Jeu sérieux : T'as pas vu venir !
 
-Nous vivons dans un monde majoritairement conçu pour les personnes voyantes. Pourtant,
-chaque jour, des millions de personnes doivent relever des défis invisibles pour la majorité : 
+Nous vivons dans un monde majoritairement conçu pour les personnes voyantes. 
+
+Pourtant, chaque jour, des millions de personnes doivent relever des défis invisibles pour la majorité : 
 naviguer dans des espaces publics, accomplir des tâches courantes, ou encore accéder à des
 informations essentielles.
+
 L'objectif de ce projet est de recréer ces défis dans un contexte ludique mais réaliste, tout
 en permettant aux participants de ressentir, à travers leurs propres sens, les obstacles et les
 solutions.
@@ -12,9 +14,12 @@ solutions.
 
 • Sensibilisation : Exposer les défis quotidiens des personnes non-voyantes pour éveiller
 la conscience collective.
+
 • Immersion : Créer un environnement où les joueurs utilisent leurs autres sens pour
 surmonter des obstacles.
+
 • Education : Proposer une plateforme pédagogique pour encourager l'inclusion et l'accessibilité.
+
 • Collaboration : Mettre l'accent sur l'importance de l'entraide et de la communication
 dans des situations complexes.
 
