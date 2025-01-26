@@ -21,12 +21,12 @@ dans des situations complexes.
 ## L'équipe
 
 Nous sommes une équipe d’étudiants en 1er année de master à l'université Clermont Auvergne.
-### Duguet Wilson 	Technicien (2 ans), reprise d’études en master AR
-### Hoareau Allan 	Licence SPI EEA, master SETSIS 
-### Loumouamou Yannis 	Licence SPI MTN, master AR
-### Nortier Jérôme 	Licence SPI MTN, master AR
-### Ounally Mohamed Dhia	Licence SPI MTN, master AR
-### Salloum Theresia	Licence SPI MTN, master AR
+### Duguet Wilson :	Technicien (2 ans), reprise d’études en master AR
+### Hoareau Allan :	Licence SPI EEA, master SETSIS 
+### Loumouamou Yannis :	Licence SPI MTN, master AR
+### Nortier Jérôme : Licence SPI MTN, master AR
+### Ounally Mohamed Dhia : Licence SPI MTN, master AR
+### Salloum Theresia : Licence SPI MTN, master AR
 
 Étant concerné de près par le handicap, nous savons à quel point il peut être difficile pour les personnes handicapées de s’intégrer dans la société actuelle.
 A travers ce jeu sérieux, notre objectif est de promouvoir la compréhension et l’acceptation des personnes malvoyantes grâce à une mise en situation immersive. En faisant cela, nous cherchons à sensibiliser le public aux défis rencontrés par les personnes malvoyantes, afin par la suite de leur donner les bon réflexe pour faciliter l’intégration des personnes malvoyantes.
