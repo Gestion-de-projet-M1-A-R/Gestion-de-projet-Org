@@ -20,7 +20,8 @@ dans des situations complexes.
 
 ## L'équipe
 
-### Duvet Wilson 	Technicien (2 ans), reprise d’études en master AR
+Nous sommes une équipe d’étudiants en 1er année de master à l'université Clermont Auvergne.
+### Duguet Wilson 	Technicien (2 ans), reprise d’études en master AR
 ### Hoareau Allan 	Licence SPI EEA, master SETSIS 
 ### Loumouamou Yannis 	Licence SPI MTN, master AR
 ### Nortier Jérôme 	Licence SPI MTN, master AR
